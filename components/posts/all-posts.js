@@ -3,7 +3,7 @@ import PostsGrid from "./posts-grid";
 function AllPosts(props) {
   return (
     <section className={classes.posts}>
-      <h1>all posts</h1>
+      <h1>모든 포스트</h1>
       <PostsGrid posts={props.posts} />
     </section>
   );

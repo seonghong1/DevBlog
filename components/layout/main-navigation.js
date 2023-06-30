@@ -11,10 +11,10 @@ function MainNavigation() {
       <nav>
         <ul>
           <li>
-            <Link href="/posts">posts</Link>
+            <Link href="/posts">내 블로그</Link>
           </li>
           <li>
-            <Link href="/contact">contact</Link>
+            <Link href="/contact">연락하기</Link>
           </li>
         </ul>
       </nav>
